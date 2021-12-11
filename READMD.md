@@ -2,7 +2,8 @@
 
 
 ## untracked vs. tracked files 
-git add 
+git add 하면 working tree 로 넘어가면서, 
+tracked file 로 변경된다. 
 tracked files (stage)
 
 difference btw untracked and tracked files 
@@ -12,7 +13,7 @@ vs.
 tracked files 
 
 ## working tree: .git directory 
-git commit 
+git add 하면 working tree 로 넘어감.  
 
 ## git status 
 
@@ -20,3 +21,6 @@ git commit
 difference btw stage and working tree 
 
 ## git diff HEAD
+
+## git log 
+
