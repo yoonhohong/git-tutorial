@@ -13,9 +13,10 @@ tracked files
 
 ## working tree: .git directory 
 git commit 
-commit message 
 
 ## git status 
 
+## git diff 
+difference btw stage and working tree 
 
 
