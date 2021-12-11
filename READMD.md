@@ -15,6 +15,7 @@ tracked files
 git commit 
 commit message 
 
+## git status 
 
 
 
