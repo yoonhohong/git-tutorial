@@ -19,4 +19,4 @@ git commit
 ## git diff 
 difference btw stage and working tree 
 
-
+## git diff HEAD
