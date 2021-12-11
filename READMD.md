@@ -13,6 +13,7 @@ tracked files
 
 ## working tree: .git directory 
 git commit 
+commit message 
 
 
 
