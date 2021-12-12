@@ -1,7 +1,3 @@
 print('hello world')
 
-print('hello again')
-
-# feature-A
-# fix B
-# feature-c
+# new feature-A
