@@ -32,7 +32,7 @@ x = c(1,2,3)
 print(x)
 ```
 
-![jCreat](https://user-images.githubusercontent.com/23047716/145701301-1f1352fc-4ab4-45b5-9e23-69edd2cec03a.png)
+![jCreat](https://user-images.githubusercontent.com/23047716/145701301-1f1352fc-4ab4-45b5-9e23-69edd2cec03a.png) 
 
 👏 
 
