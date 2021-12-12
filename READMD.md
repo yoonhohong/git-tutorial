@@ -27,3 +27,8 @@ staging area 와 최신 commit 과의 차이를 보여줌.
 
 ## git log 
 
+```r
+x = c(1,2,3)
+print(x)
+```
+
